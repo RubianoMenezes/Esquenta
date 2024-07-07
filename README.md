@@ -1,9 +1,11 @@
 <h1>DevClub Café</h1>
 
-<p>Projeto feito dentro do curso, DevClub</p>
+<p><b>Projeto feito dentro do curso DevClub, com uma estilização no botão, Diferente para quem está aprendendo o Front-and </b></p>
 
-<p>O Projeto foi Criado com as Tecnologias:</p>
+<h2>O Projeto foi Criado com as Tecnologias:</h2>
 <br>
-<p>-HTML</p>
-<p>-CSS</p>
+
+<p><b>-HTML</b></p>
+<p><b>-CSS</b></p>
+
 <img src="https://github.com/RubianoMenezes/Esquenta/blob/main/img/DevCaf%C3%A9.jpeg" />
